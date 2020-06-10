@@ -1,3 +1,42 @@
+# Spis treści:
+	**[Coś się kończy, coś zaczyna - czyli Instalacja](https://github.com/hidden-one/hiddenite/edit/master/README.md#Coś się kończy, coś zaczyna - czyli Instalacja)
+
+
+# Coś się kończy, coś zaczyna - czyli Instalacja
+
+Aby uzyskać dostęp do aplikacji, potrzebujemy najpierw posiadać zainstalowane api, (Node.js) a potem najzwyczajniej dodać ją do włączonego edytora kodu (polecany, Visual Studio Code), po czym potrzebujemy:
+
+ - Włączyć terminal (skrót Ctrl+Shift+`)
+ - Wpisać i aktywować komendę "npm install"
+ - Poczekać aż zostaną ściągnięte automatycznie dodatkowe pliki, umożliwiające poprawne działanie aplikacji
+ - Następnie, wpisać komendę "npm start" która zainicjuje odpalenie się dodatkowej karty, w naszej domyślnej przeglądarce. W wypadku gdy ta się nie otworzy, jest to "localhost:3000"
+
+
+# I made an .App, not a tragedy.
+
+Moja prosta aplikacja, stworzona przy użyciu głównie języków webowych i ich istniejących komponentów (html, css, jsc, node.js, react-js) służy wyświetlaniu prostych pomysłów na potrawy. Ściąga ona informacje z już istniejącej bazy internetowej, wyświetla nazwę, obrazek prezentujący (jeżeli jest zamieszczony) potrawę, jej kaloryczność, listę wymaganych składników oraz to, ile osób będziemy w stanie wyżywić z jednego przyrządzenia. Do tego, na dole wyświetla się też link do pełnego opisu, źródła oraz sposobu przyrządzania.
+
+Aplikacja nie jest dostępna offline, oraz nie ma planów by taką ją czynić.
+
+
+# Nie od razu aplikację (lub Rzym) zbudowano - coś o budowie.
+
+**App.js** - Serce aplikacji, komponent zbierający dane ze strony internetowej (https://www.edamam.com/) znajduje się właśnie tutaj, oraz cała programistyczna magia która utrzymuje całość mojej prywatnej wieży Babel w formie zdatnej do użytku.
+
+**Recipe.js** - Tutaj znajdziemy cały model strony, szkielet który trzyma całość funkcjonalności na własnych, w znoju ociosanych barkach. 
+
+**App.css** - Tutaj znajdziemy komponenty odpowiedzialne za wygląd strony jako podstawy.
+
+**recipe.module.css** - Tutaj znajdziemy elementy języka CSS odpowiedzialne za wygląd poszczególnych bloków, zawierających dane na temat przepisów.
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
