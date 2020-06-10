@@ -1,0 +1,128 @@
+.recipes {
+    border-radius: 5px;
+    box-shadow: 0px 8px 24px #05386b;
+    margin: 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgb(184, 240, 205);
+    align-items: center;
+    min-width: 38%;
+    min-height: 10%;
+    max-height: 16%;
+    outline: 7px solid #05386b;
+    outline-offset: 0px;
+}
+.image {
+    border-radius: 12px;
+    text-align: left;
+    width: 360px;
+    height: 360px;
+    animation: ease-in;
+    outline-offset: 1px;
+    -moz-transform: translate(0px, -10px);
+    -webkit-transform: translate(0px, -10px);
+    -o-transform: translate(0px, -10px);
+    -ms-transform: translate(0px, -10px);
+    transform: translate(0px, -10px);
+    align-self: center;
+    padding-left: 6%;
+    padding-right: 6%;
+
+}
+img:hover {
+    opacity: .8;
+  }
+.title {
+font-family: "Courier New", Courier, monospace, bold;
+font-size: 30px;
+letter-spacing: -0.4px;
+word-spacing: -0.2px;
+color: #05386b;
+font-weight: normal;
+text-decoration: none;
+font-style: bold;
+font-variant: bold;
+text-transform: none; 
+    padding: 2px;  
+       
+}
+.list {
+font-family: "Courier New", Courier, monospace;
+font-size: 18px;
+letter-spacing: -0.4px;
+word-spacing: -0.2px;
+color: #05386b;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+    align-self: flex-start;
+    padding-left: 6%;
+}
+.calories {
+font-family: "Courier New", Courier, monospace;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    word-spacing: -0.2px;
+    color: #05386b;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+align-self: flex-start;
+padding-left: 8%;
+margin-right: -1px;
+margin-bottom: -1px;
+margin-top: -7px;
+}
+.yielding {
+font-family: "Courier New", Courier, monospace;
+font-size: 18px;
+letter-spacing: -0.4px;
+word-spacing: -0.2px;
+color: #05386b;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+    align-self: flex-start;
+    padding-left: 8%;
+    margin-right: -5px;
+    margin-bottom: -5px;
+    margin-top: -1px;
+}
+.weburl {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 16px;
+    margin-bottom: 12px;
+    letter-spacing: 1.3px;
+    word-spacing: 0.4px;
+    color: #747474;
+    align-self: center;
+    letter-spacing: -0.4px;
+    word-spacing: -0.2px;
+}
+
+.weburl:hover {
+    opacity: 80%;
+}
+
+.ol {
+    align-self: flex-start;
+    padding-left: 6%;
+    font-family: "Courier New", Courier, monospace;
+font-size: 18px;
+letter-spacing: -0.4px;
+word-spacing: -0.2px;
+color: #05386b;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
