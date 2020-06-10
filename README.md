@@ -1,5 +1,3 @@
-# Spis treści:
-	[Coś się kończy, coś zaczyna - czyli Instalacja]()
 
 
 # Coś się kończy, coś zaczyna czyli Instalacja
