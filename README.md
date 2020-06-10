@@ -2,7 +2,7 @@
 	[Coś się kończy, coś zaczyna - czyli Instalacja](https://github.com/hidden-one/hiddenite/blob/master/README.md#co%C5%9B-si%C4%99-ko%C5%84czy-co%C5%9B-zaczyna---czyli-instalacja)
 
 
-# Coś się kończy, coś zaczyna - czyli Instalacja
+# Coś się kończy, coś zaczyna, czyli Instalacja
 
 Aby uzyskać dostęp do aplikacji, potrzebujemy najpierw posiadać zainstalowane api, (Node.js) a potem najzwyczajniej dodać ją do włączonego edytora kodu (polecany, Visual Studio Code), po czym potrzebujemy:
 
