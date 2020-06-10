@@ -1,5 +1,5 @@
 # Spis treści:
-	**[Coś się kończy, coś zaczyna - czyli Instalacja](https://github.com/hidden-one/hiddenite/edit/master/README.md#Coś się kończy, coś zaczyna - czyli Instalacja)
+	[Coś się kończy, coś zaczyna - czyli Instalacja](https://github.com/hidden-one/hiddenite/edit/master/README.md#Coś się kończy, coś zaczyna - czyli Instalacja)
 
 
 # Coś się kończy, coś zaczyna - czyli Instalacja
